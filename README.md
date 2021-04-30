@@ -1,1 +1,2 @@
-# Highway-Speed-Control-using-MPC
+# Model Predictive Control
+## Highway Speed Control 
